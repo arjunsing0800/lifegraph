@@ -1,0 +1,128 @@
+{
+ "totalReceipts": 9649,
+ "bySource": {
+  "spotify": 4688,
+  "household": 2461,
+  "augmented": 2500
+ },
+ "byType": {
+  "music": 4688,
+  "purchase": 4393,
+  "movie": 543,
+  "event": 25
+ },
+ "timeMin": "2013-07-09T00:46:26.000Z",
+ "timeMax": "2024-12-15T23:05:19.000Z",
+ "yearsCovered": 12,
+ "fullCorpus": {
+  "spotifyPlays": 149860,
+  "spotifyPlaysOver30s": 94194,
+  "householdRows": 2461,
+  "augmentedRows": 10267
+ },
+ "topArtists": [
+  {
+   "name": "The Beatles",
+   "plays": 7806
+  },
+  {
+   "name": "The Killers",
+   "plays": 4711
+  },
+  {
+   "name": "John Mayer",
+   "plays": 3138
+  },
+  {
+   "name": "Bob Dylan",
+   "plays": 2248
+  },
+  {
+   "name": "Paul McCartney",
+   "plays": 1760
+  },
+  {
+   "name": "Johnny Cash",
+   "plays": 1501
+  },
+  {
+   "name": "The Rolling Stones",
+   "plays": 1388
+  },
+  {
+   "name": "The Strokes",
+   "plays": 1342
+  },
+  {
+   "name": "Pink Floyd",
+   "plays": 1210
+  },
+  {
+   "name": "Imagine Dragons",
+   "plays": 1191
+  }
+ ],
+ "topHouseholdCategories": [
+  {
+   "name": "Food",
+   "count": 907
+  },
+  {
+   "name": "Transportation",
+   "count": 307
+  },
+  {
+   "name": "Household",
+   "count": 176
+  },
+  {
+   "name": "subscription",
+   "count": 143
+  },
+  {
+   "name": "Other",
+   "count": 126
+  },
+  {
+   "name": "Investment",
+   "count": 103
+  },
+  {
+   "name": "Health",
+   "count": 94
+  },
+  {
+   "name": "Family",
+   "count": 71
+  }
+ ],
+ "topAugmentedCategories": [
+  {
+   "name": "online_shopping",
+   "count": 2228
+  },
+  {
+   "name": "travel",
+   "count": 2054
+  },
+  {
+   "name": "entertainment",
+   "count": 2004
+  },
+  {
+   "name": "fitness_and_medical",
+   "count": 1787
+  },
+  {
+   "name": "(blank)",
+   "count": 682
+  }
+ ],
+ "connectionCount": 7336,
+ "strongConnectionCount": 2284,
+ "clusterCount": 271,
+ "patternCount": 7,
+ "storyCount": 5,
+ "locationNote": "Augmented coordinates excluded: only 1.4% fall inside India. City/state kept as text. Household 'Place N' codes kept as route context, never geocoded. Map intentionally omitted.",
+ "samplingNote": "Visual corpus is a deterministic stratified sample (9649 receipts). Global statistics computed from the full corpus (162588 rows)."
+}

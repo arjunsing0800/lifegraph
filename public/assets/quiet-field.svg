@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-label="Quiet field of fading traces">
+  <rect width="1200" height="500" fill="#08080d"/>
+  <ellipse cx="600" cy="560" rx="700" ry="220" fill="#8b5cf6" opacity="0.07"/>
+  <g fill="#8b5cf6">
+    <circle cx="200" cy="380" r="3" opacity="0.8"/>
+    <circle cx="340" cy="330" r="2" opacity="0.6"/>
+    <circle cx="470" cy="360" r="4" opacity="0.7"/>
+    <circle cx="590" cy="300" r="2" opacity="0.5"/>
+    <circle cx="720" cy="345" r="3" opacity="0.6"/>
+    <circle cx="850" cy="310" r="2" opacity="0.4"/>
+    <circle cx="980" cy="370" r="3" opacity="0.5"/>
+  </g>
+  <g fill="#3b82f6">
+    <circle cx="270" cy="350" r="2" opacity="0.5"/>
+    <circle cx="530" cy="390" r="3" opacity="0.6"/>
+    <circle cx="790" cy="390" r="2" opacity="0.4"/>
+  </g>
+  <g fill="#22d3ee">
+    <circle cx="410" cy="300" r="2" opacity="0.5"/>
+    <circle cx="660" cy="400" r="2" opacity="0.4"/>
+  </g>
+</svg>

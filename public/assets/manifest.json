@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "filename": "night-arc.svg",
+      "source": "original — generated for LIFEGRAPH",
+      "license": "original (project-owned)",
+      "usage": "Act 08 pattern plate: abstract night-listening arc (10 PM–5 AM concentration)"
+    },
+    {
+      "filename": "repeat-motif.svg",
+      "source": "original — generated for LIFEGRAPH",
+      "license": "original (project-owned)",
+      "usage": "Act 08: repeating music→purchase motif illustrating recurrence-as-evidence"
+    },
+    {
+      "filename": "quiet-field.svg",
+      "source": "original — generated for LIFEGRAPH",
+      "license": "original (project-owned)",
+      "usage": "Act 12 ending: quiet atmospheric field of fading traces"
+    }
+  ],
+  "policy": "No external, scraped, or hotlinked imagery. No dataset photos are fabricated; where the dataset has no images, abstract original plates are used and never presented as user evidence.",
+  "creation": "All three plates are hand-authored original SVG compositions (geometric arcs, dots, type) — no AI-image generator and no photographic sourcing involved, so no prompts, licensing, attribution, or mobile photographic variants apply. Responsive behavior: SVGs scale losslessly to any viewport (vector); ParallaxFigure renders them at container width with focal-safe symmetric compositions that crop gracefully.",
+  "optimization": "Each SVG is under 4 KB, inlined via <img> with loading=lazy; no raster variants needed."
+}
